@@ -1,0 +1,101 @@
+{
+    "data":{
+	"name": "Walter Rafael",
+    	"lastname": "Gimenez",
+    	"born": "13/11/1973",
+	"photo": "./assets/gimenez.png",
+	"photoMin": "./assets/desarrollo.png",
+    	"position": "Full Stack Developer Jr.",
+    	"place": "Buenos Aires, Argentina",
+	"about": "Full Stack Developer Jr. mediante Argentina Programa del Ministerio de Desarrollo Productivo",
+    	"about2": "Estudiante de Ingeniería en 2º año de la carrera de Informática UNAJ(Universidad Nacional Arturo Jauretche)"
+    },
+    "other":{
+	"banner":"./assets/banner-verde.webp",
+	"suma": "./assets/suma.png",
+    	"addId": "add",
+    	"pencil": "./assets/pencil-solid.svg",
+    	"pencilId": "pencil",
+    	"trash": "./assets/trash-solid.svg",
+    	"trashId": "trash"
+    },
+    
+    "misc":{
+	"photoAP": "./assets/APLogo.png",
+    	"photoUni":"./assets/logoUnaj.png"
+    },   
+    
+    "redes":{
+        "icoGit": "./assets/github.png",
+        "urlGit": "https://github.com/WalterGimenez",
+        "icoFace": "./assets/facebook.png",
+        "urlFace": "https://www.facebook.com/Walle2009",
+        "icoInsta": "./assets/instagram.png",
+        "urlInsta": "https://www.instagram.com/walter2019soy/?hl=es-la",
+        "icoLinke": "./assets/linkedin.png",
+        "urlLinke": "https://www.linkedin.com/in/walter-rafael-gimenez/"
+    },
+    "company":[{
+        "name": "Universidad Nacional Arturo Jauretche",
+        "position": "Supervisor del Centro de Copiado",
+        "img": "./assets/logoUnaj.png",
+        "start": "2017",
+        "end": "2020",
+        "description": "• Supervisión de equipo • Atención al Público • Cierre de Caja • Control de Stock"
+    },
+    {
+        "name": "Tarjeta Shopping S.A",
+        "position": "Representante de Atención al Cliente",
+        "img": "./assets/ts.png",
+        "start": "2006",
+        "end": "2012",
+        "description": "• Venta de Intangibles • Resolución de problemas de clientes • Suplencias de Supervisión • Gestión de Cobranzas"
+    }],
+    "school":[{
+        "name": "Universidad Nacional Arturo Jauretche",
+        "img": "./assets/logoUnaj.png",
+        "start": "2015",
+        "end": "Actualidad",
+        "description": "• Ingeniería en Informática, 2º Año"
+    },
+    {
+        "name": "Nuestra Señora del Perpetuo Socorro",
+        "img": "./assets/secundario.png",
+        "start":"2001",
+        "end": "2009",
+        "description": "• Perito Mercantil"
+    }],
+    	
+    "skills":[{
+        "percent": 85,
+        "description": "Comunicación"
+    },
+    {
+        "percent": 90,
+        "description": "Responsabilidad"
+    },
+    {
+        "percent": 80,
+        "description": "Trabajo de Equipo"
+    },
+    {
+        "percent": 75,
+        "description": "Angular-JS"
+    },
+    {
+        "percent": 80,
+        "description": "HTML-CSS"
+    },
+    {
+        "percent": 75,
+        "description": "MySQL"
+    }],
+    "proyectos":[{
+        "name": "",
+        "description": ""
+    }],
+    "error":{
+        "img": "./assets/signo.png",
+        "message": "La página que está tratrando de acceder no está disponible, intente nuevamente......"
+    }
+}
