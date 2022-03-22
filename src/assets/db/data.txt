@@ -1,0 +1,3 @@
+INSERT INTO persona
+VALUES (1, "Walter Rafael", "Gimenez", "13/11/73", "Full Stack Developer Jr.", "Buenos Aires, Argentina", "Full Stack Developer Jr. mediante Argentina Programa del Ministerio de Desarrollo Productivo. 
+    Estudiante de Ingeniería en 2º año de la carrera de Informática UNAJ(Universidad Nacional Arturo Jauretche)", "wallegimenez@gmail.com", 1565438967, "C:\Users\Gimenez\Desktop\2022portfolioultimo\front-end\src\assets\gimenez.png");

@@ -8,19 +8,25 @@ import {MatToolbarModule} from '@angular/material/toolbar';
 import { HeaderComponent } from './component/header/header.component';
 import { ErrorPageComponent } from './component/error-page/error-page.component';
 import { NavbarComponent } from './component/navbar/navbar.component';
+import { ApLogoComponent } from './component/ap-logo/ap-logo.component';
+import { HttpClientModule } from '@angular/common/http';
+import { RedesComponent } from './component/redes/redes.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     ErrorPageComponent,
-    NavbarComponent
+    NavbarComponent,
+    ApLogoComponent,
+    RedesComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    MatToolbarModule
+    MatToolbarModule,
+    HttpClientModule
    
   ],
   providers: [],

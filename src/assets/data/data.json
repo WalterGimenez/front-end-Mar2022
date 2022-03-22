@@ -1,18 +1,19 @@
 {
     "data":{
-	"name": "Walter Rafael",
-    	"lastname": "Gimenez",
-    	"born": "13/11/1973",
-	"photo": "./assets/gimenez.png",
-	"photoMin": "./assets/desarrollo.png",
-    	"position": "Full Stack Developer Jr.",
-    	"place": "Buenos Aires, Argentina",
-	"about": "Full Stack Developer Jr. mediante Argentina Programa del Ministerio de Desarrollo Productivo",
-    	"about2": "Estudiante de Ingeniería en 2º año de la carrera de Informática UNAJ(Universidad Nacional Arturo Jauretche)"
+
+	    "name": "Walter Rafael",
+        "lastname": "Gimenez",
+        "born": "13/11/1973",
+	    "photo": "./assets/gimenez.png",
+	    "photoMin": "./assets/desarrollo.png",
+        "position": "Full Stack Developer Jr.",
+        "place": "Buenos Aires, Argentina",
+	    "about": "Full Stack Developer Jr. mediante Argentina Programa del Ministerio de Desarrollo Productivo",
+        "about2": "Estudiante de Ingeniería en 2º año de la carrera de Informática UNAJ(Universidad Nacional Arturo Jauretche)"
     },
     "other":{
-	"banner":"./assets/banner-verde.webp",
-	"suma": "./assets/suma.png",
+	    "banner":"./assets/banner-verde.webp",
+	    "suma": "./assets/suma.png",
     	"addId": "add",
     	"pencil": "./assets/pencil-solid.svg",
     	"pencilId": "pencil",
@@ -21,7 +22,7 @@
     },
     
     "misc":{
-	"photoAP": "./assets/APLogo.png",
+	    "photoAP": "./assets/APLogo.png",
     	"photoUni":"./assets/logoUnaj.png"
     },   
     

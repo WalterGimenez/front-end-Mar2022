@@ -1,3 +1,14 @@
+.ainear{
+    align-items: center;
+}
 .navbar{
     background-color: #7792E0;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}    
+app-redes{
+    margin-top:22px;
 }
